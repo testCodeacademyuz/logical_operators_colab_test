@@ -73,6 +73,6 @@ class TaskEight(CheckSolution):
             emoji = "✅" if test_case["isSolved"] else "❌"
             print(f"{emoji} Test: {i}")
             if not test_case["isSolved"]:
-                print(f"input: {test_case['input']}")
+                print(f"input: {', '.join(test_case['input'])}")
                 print(f"answer: {test_case['answer']}")
                 print(f"expected: {test_case['expected']}")
