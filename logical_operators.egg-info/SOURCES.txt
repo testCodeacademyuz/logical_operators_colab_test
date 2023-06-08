@@ -1,0 +1,10 @@
+setup.py
+logical_operators/__init__.py
+logical_operators/checker.py
+logical_operators/test01.py
+logical_operators/tests.py
+logical_operators.egg-info/PKG-INFO
+logical_operators.egg-info/SOURCES.txt
+logical_operators.egg-info/dependency_links.txt
+logical_operators.egg-info/requires.txt
+logical_operators.egg-info/top_level.txt
