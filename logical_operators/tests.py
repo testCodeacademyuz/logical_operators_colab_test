@@ -1,4 +1,4 @@
-from test01 import TaskOne  
+from logical_operators import TaskOne  
 
 q1 = TaskOne("task_1", "homework_1")
 

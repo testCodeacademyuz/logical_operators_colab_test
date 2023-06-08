@@ -1,4 +1,4 @@
-from checker import CheckSolution
+from logical_operators import CheckSolution
 
 # Given three integers a, b, c, check the following statement "The number b is between a and c".
 # input a = 1, b = 2, c = 3 output True, input a = 3, b = 1, c = 2 output False, input a = 12, b = 9, c = 15 output False, -2, -1, 0 output True
